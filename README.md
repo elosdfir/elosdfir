@@ -5,6 +5,14 @@
 
 ---
 
-**Hey there!**  
-I work on DFIR-related projects and will drop interesting tools here sometimes.  
-Take whatever you need, it's all yours! ❤️  
+<p align="center">
+  <strong>Hey there!</strong><br>
+  I work on DFIR-related projects and will drop interesting tools here sometimes.<br>
+  Take whatever you need, it's all yours! ❤️
+</p>
+
+---
+
+<p align="center">
+  <strong>discord</strong> @elosyes
+</p>
